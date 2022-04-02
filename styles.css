@@ -71,17 +71,17 @@ nav li {
     font-weight: 600;
 }
 
-@media (min-width: calc(36 * 22px + 6rem)) {
+@media (min-width: calc(36 * 22px + 2rem)) {
     :root {
       font-size: 22px;
-      padding: 4rem;
+      padding: 1rem;
     }
   }
   
-@media (min-width: calc(36 * 28px + 6rem)) {
+@media (min-width: calc(36 * 28px + 4rem)) {
     :root {
         font-size: 28px;
-        padding: 4rem;
+        padding: 2rem;
     }
 }
 
